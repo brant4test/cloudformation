@@ -1,0 +1,7 @@
+{
+  "Resources":{
+    "brant4test_jenkins":{
+      "Type":"AWS::S3::Bucket"
+    }
+  }
+}
